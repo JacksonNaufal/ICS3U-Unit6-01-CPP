@@ -1,7 +1,7 @@
 // Copyright (c) 2022 Jackson Naufal All rights reserved
 // Created By Jackson Naufal
 // Created On March 2022
-// This is a loop adder
+// This is a random number averager
 
 #include <iostream>
 #include <random>
